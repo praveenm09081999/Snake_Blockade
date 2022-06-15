@@ -1,0 +1,12 @@
+*INSTALL JDK FROM INTERNET AND MERGE IT WITH SYSTEM VARIABLES
+*OPEN JAVAproduct DIRECTORY
+              *******************WARNING**********************
+              * DO NOT OPEN heartiin DIRECTORY and Main.java *
+              ************************************************
+*PASTE THE heartiin DIRECTORY into Local disk(C) [example C:\heartiin]
+*OPEN COMMAND PROMPT
+*TYPE cd
+*COPY THE LOCATION OF THE JAVAproduct DIRECTORY AND PASTE IN COMMAND PROMPT
+*PRESS ENTER
+*TYPE java Main.java AND PRESS ENTER
+*ENJOY THE PRODUCT.
